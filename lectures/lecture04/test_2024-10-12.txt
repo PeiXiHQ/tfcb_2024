@@ -1,0 +1,28 @@
+         _.-'~~~~~~`-._
+        /      ||      \
+       /       ||       \
+      |        ||        |
+      | _______||_______ |
+      |/ ----- \/ ----- \|
+     /  (     )  (     )  \
+    / \  ----- () -----  / \
+   /   \      /||\      /   \
+  /     \    /||||\    /     \
+ /       \  /||||||\  /       \
+/_        \o========o/        _\
+  `--...__|`-._  _.-'|__...--'
+          |    `'    |
+01-first-steps.md
+02-directories
+03-redirection
+04-vim
+05-history
+06-scripting
+07-more-interactive-shell
+README.md
+output.txt
+quickref.md
+sequence.gb
+slides
+test_2024-10-12.txt
+vader.txt
